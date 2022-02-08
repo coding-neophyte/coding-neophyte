@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I made the decision to become a software engineer to build great things. Things that can help automate a daunting task or things that can change certain industries forever. Spending the last 10 years of my life as a music producer, I find similarities in the two fields. I relate coding and music production in a way that i can start with a blank canvas (IDE or Digital audio workstation), add some elements together (lines of code or digital instruments) and use those elements to create something impactful (a song or an app). My passion for software development stems from my passion to create things that can impact people's lives. 
 
-#Tech Stack#
+**Tech Stack**
 - Languages: JavaScript, HTML, CSS
 - Libs/Frameworks: React, Node.js, Express
 - Databases: PostgreSQL, Supabase, Firebase
