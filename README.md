@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Tech Stack 
+#Tech Stack 
 - Languages: JavaScript, HTML, CSS
 - Libs/Frameworks: React, Node.js, Express
 - Databases: PostgreSQL, Supabase, Firebase
