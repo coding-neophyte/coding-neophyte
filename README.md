@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Tech Stack 
-Languages: JavaScript, HTML, CSS
-Libs/Frameworks: React, Node.js, Express
-Databases: PostgreSQL, Supabase, Firebase
-Tools: Slack, Git, VScode, Heroku, Netlify, Postman
-Testing: Jest, React Testing Library
+- Languages: JavaScript, HTML, CSS
+- Libs/Frameworks: React, Node.js, Express
+- Databases: PostgreSQL, Supabase, Firebase
+- Tools: Slack, Git, VScode, Heroku, Netlify, Postman
+- Testing: Jest, React Testing Library
