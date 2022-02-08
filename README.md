@@ -19,6 +19,6 @@ My name is Julius Franklin, I am a software engineer based in NYC. I made the de
 **Tech Stack**
 - Languages: JavaScript, HTML, CSS
 - Libs/Frameworks: React, Node.js, Express
-- Databases: PostgreSQL, Supabase, Firebase
+- Databases: PostgreSQL, Supabase, MongoDB
 - Tools: Slack, Git, VScode, Heroku, Netlify, Postman
 - Testing: Jest, React Testing Library
